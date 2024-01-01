@@ -314,3 +314,9 @@ a.author{
     opacity: 1;
   }
 }
+footer {
+	color: white;
+	justify-contect: center;
+	align-items: center;
+	display: flex;
+}
